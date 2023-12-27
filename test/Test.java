@@ -1,0 +1,2 @@
+public calss main {
+}
